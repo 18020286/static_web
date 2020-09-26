@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Contact
-permalink: /contact/
 ---
 
 My name is Nguyen Tien Dat!
